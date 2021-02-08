@@ -1,0 +1,9 @@
+[ {
+  "item" : "itemA",
+  "basePrice" : 100.0,
+  "finalPrice" : 295.0
+}, {
+  "item" : "itemB",
+  "basePrice" : 2000.0,
+  "finalPrice" : 2440.0
+} ]
